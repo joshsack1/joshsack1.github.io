@@ -5,4 +5,7 @@ enableEmoji = true
 [params]
  title = "Joshua Sack"
  author = "Joshua Sack"
- description = "A Place to share my thoughts"
+ description = "I am a PhD student in the economics at American University. My research interests include agent-based modeling and its applications to inequality, taxation, and cooperation.  Before starting my degree, I worked on a number of Democratic campaigns as an opposition researcher. In my free time, I support Liverpool FC, and like to run long distances in very thin shoes."
+ profilePicture = "images/profile.jpeg"
+
+mainSections = ["blog"]
