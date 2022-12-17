@@ -1,0 +1,8 @@
+baseURL = "https://joshsack1.github.io"
+languageCode = "en-us"
+theme = "anatole"
+enableEmoji = true
+[params]
+ title = "Joshua Sack"
+ author = "Joshua Sack"
+ description = "A Place to share my thoughts"
