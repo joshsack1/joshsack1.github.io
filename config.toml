@@ -43,6 +43,11 @@ theme = "anatole"
     title = "Mastodon"
     url = "https://econtwitter.net/@Joshsack"
 
+[[params.socialIcons]]
+    icon = "fas fa-rss"
+    title = "RSS"
+    url = "https://www.joshsack.com/posts/index.xml"
+
 [menu]
 
   [[menu.main]]
