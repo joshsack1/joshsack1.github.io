@@ -2,17 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joshsack1.github.io/</loc>
+    <loc>https://joshsack.xyz/cv/</loc>
+    <lastmod>2022-12-17T17:51:28-05:00</lastmod>
+  </url><url>
+    <loc>https://joshsack.xyz/</loc>
     <lastmod>2022-12-17T17:39:22-05:00</lastmod>
   </url><url>
-    <loc>https://joshsack1.github.io/blog/</loc>
+    <loc>https://joshsack.xyz/blog/</loc>
     <lastmod>2022-12-17T17:39:22-05:00</lastmod>
   </url><url>
-    <loc>https://joshsack1.github.io/blog/why-blog/</loc>
+    <loc>https://joshsack.xyz/blog/why-blog/</loc>
     <lastmod>2022-12-17T17:39:22-05:00</lastmod>
   </url><url>
-    <loc>https://joshsack1.github.io/categories/</loc>
-  </url><url>
-    <loc>https://joshsack1.github.io/tags/</loc>
+    <loc>https://joshsack.xyz/tags/</loc>
   </url>
 </urlset>
