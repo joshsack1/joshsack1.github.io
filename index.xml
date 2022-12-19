@@ -1,2 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://joshsack.xyz/</link><description>Recent content on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 17 Dec 2022 17:39:22 -0500</lastBuildDate><atom:link href="https://joshsack.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>CV</title><link>https://joshsack.xyz/cv/</link><pubDate>Sat, 17 Dec 2022 17:51:28 -0500</pubDate><guid>https://joshsack.xyz/cv/</guid><description>Joshua A. Sack EXPERIENCE Research Intern: House Majority PAC, March 2022 - Present Fact-checked House Majority PAC materials, including polls and advertisements to ensure factual accuracy Compiled and constructed research books on candidates for the House of Representatives across the country Automated processes to speed up the research team&amp;rsquo;s ability to collect information in an easily accessible format Research Associate: American Bridge 21st Century, April 2019 - August 2021 Analyzed the impact of the Trump administration&amp;rsquo;s policies and actions on areas and populations of strategic importance to winning back Michigan, Wisconsin, and Pennsylvania in the 2020 campaign using quantitative and qualitative methods Vetted participants in American Bridge 21st Century projects to find potentially compromising information, and verify claims made Provided background and support to a year-long, $62 million program that targeted 1.</description></item><item><title>Why Blog?</title><link>https://joshsack.xyz/blog/why-blog/</link><pubDate>Sat, 17 Dec 2022 17:39:22 -0500</pubDate><guid>https://joshsack.xyz/blog/why-blog/</guid><description>For the last six and a half years I have spent thousands of hours of my life on twitter. In that time I had many interactions (positive and negative), learned countless things, fallen for a few hoaxes, and sent tens of thousands of tweets.
-I don&amp;rsquo;t know how twitter will change as Musk fails to realizes his vision, realizes that his vision was fatally flawed all along, comes up with a new vision, and fails to realize this one, but it does present an opportunity.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://joshsack.xyz/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Dec 2022 17:39:22 -0500</lastBuildDate><atom:link href="https://joshsack.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://joshsack.xyz/cv/</link>
+      <pubDate>Sat, 17 Dec 2022 17:51:28 -0500</pubDate>
+      
+      <guid>https://joshsack.xyz/cv/</guid>
+      
+        <description>Joshua A. Sack EXPERIENCE Research Intern: House Majority PAC, March 2022 - Present Fact-checked House Majority PAC materials, including polls and advertisements to ensure factual accuracy Compiled and constructed research books on candidates for the House of Representatives across the country Automated processes to speed up the research team&amp;rsquo;s ability to collect information in an easily accessible format Research Associate: American Bridge 21st Century, April 2019 - August 2021 Analyzed the impact of the Trump administration&amp;rsquo;s policies and actions on areas and populations of strategic importance to winning back Michigan, Wisconsin, and Pennsylvania in the 2020 campaign using quantitative and qualitative methods Vetted participants in American Bridge 21st Century projects to find potentially compromising information, and verify claims made Provided background and support to a year-long, $62 million program that targeted 1.</description>
+      
+    </item>
+    
+    <item>
+      <title>Why Blog?</title>
+      <link>https://joshsack.xyz/blog/why-blog/</link>
+      <pubDate>Sat, 17 Dec 2022 17:39:22 -0500</pubDate>
+      
+      <guid>https://joshsack.xyz/blog/why-blog/</guid>
+      
+        <description>For the last six and a half years I have spent thousands of hours of my life on twitter. In that time I had many interactions (positive and negative), learned countless things, fallen for a few hoaxes, and sent tens of thousands of tweets.
+I don&amp;rsquo;t know how twitter will change as Musk fails to realizes his vision, realizes that his vision was fatally flawed all along, comes up with a new vision, and fails to realize this one, but it does present an opportunity.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
